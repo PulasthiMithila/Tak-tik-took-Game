@@ -57,7 +57,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void firstRow(){
                 if(one==two){
                     if(two==three){
-                        JOptionPane.showMessageDialog(this, one+" is winner");
+                        JOptionPane.showMessageDialog(this, one+"  winner");
                       
                        if(one=="0"){
                            marks0++;
@@ -76,7 +76,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void secondRow(){
                 if(four==five){
                     if(five==six){
-                        JOptionPane.showMessageDialog(this, four+" is winner");
+                        JOptionPane.showMessageDialog(this, four+"  winner");
                         
                          if(four=="0"){
                            marks0++;
@@ -94,7 +94,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void thirdRow(){
                 if(seven==eight){
                     if(eight==nine){
-                        JOptionPane.showMessageDialog(this, seven+" is winner");
+                        JOptionPane.showMessageDialog(this, seven+"  winner");
                         
                          if(seven=="0"){
                            marks0++;
@@ -112,7 +112,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void firstColumn(){
                 if(one==four){
                     if(four==seven){
-                        JOptionPane.showMessageDialog(this, one+" is winner");
+                        JOptionPane.showMessageDialog(this, one+"  winner");
                         
                          if(one=="0"){
                            marks0++;
@@ -130,7 +130,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void secondColumn(){
                 if(two==five){
                     if(five==eight){
-                        JOptionPane.showMessageDialog(this, two+" is winner");
+                        JOptionPane.showMessageDialog(this, two+"  winner");
                         
                          if(two=="0"){
                            marks0++;
@@ -148,7 +148,7 @@ public class TakTikTok extends javax.swing.JFrame {
             public void thirdColumn(){
                 if(three==six){
                     if(six==nine){
-                        JOptionPane.showMessageDialog(this, three+" is winner");
+                        JOptionPane.showMessageDialog(this, three+"  winner");
                         
                          if(three=="0"){
                            marks0++;
